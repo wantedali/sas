@@ -1,0 +1,1844 @@
+city,LocationID,CountryID
+Glasgow,1,1
+London,2,2
+Wrexham,3,3
+Blackburn,4,2
+Belfast,5,4
+Liverpool,6,2
+Sheffield,7,2
+Newark,8,5
+Montevideo,9,6
+Vienna,10,7
+Budapest,11,8
+Buenos Aires,12,9
+Paris,13,10
+Antwerp,14,11
+Brussels,15,11
+Rotterdam,16,12
+Saint-Cloud,17,10
+Prague,18,13
+Haarlem,19,12
+Geneva,20,14
+Basel,21,14
+Colombes,22,10
+Gothenburg,23,15
+The Hague,24,12
+Karlsruhe,25,16
+Gentilly,26,10
+Arnhem,27,12
+Milan,28,17
+Duisburg,29,16
+Viña del Mar,30,18
+Kristiania,31,19
+Kleve,32,16
+Maisons-Alfort,33,10
+Zürich,34,14
+Stuttgart,35,16
+Dordrecht,36,12
+Saint-Ouen,37,10
+Liège,38,11
+Uccle,39,11
+La Chaux-de-Fonds,40,14
+Solna,41,15
+Dresden,42,16
+Helsinki,43,20
+Hamburg,44,16
+Luxembourg,45,21
+Munich,46,16
+Turin,47,17
+Zwolle,48,12
+St. Gallen,49,14
+Stockholm,50,15
+Moscow,51,22
+Copenhagen,52,23
+Leipzig,53,16
+Barcelona,54,24
+Genoa,55,17
+Freiburg,56,16
+Avellaneda,57,9
+Verviers,58,11
+Lille,59,10
+Amsterdam,60,12
+Berne,61,14
+Bilbao,62,24
+Madrid,63,24
+Tokyo,64,25
+Helsingborg,65,15
+Rio de Janeiro,66,26
+Asunción,67,27
+Oslo,68,19
+Berlin,69,16
+Marseille,70,10
+Forest,71,11
+Shanghai,72,28
+Montreal,73,29
+Tallinn,74,30
+Guatemala City,75,31
+Prague,76,32
+Vincennes,77,10
+Rennes,78,10
+Frankfurt am Main,79,16
+Le Bouscat,80,10
+Kraków,81,33
+Bergen,82,19
+Belgrade,83,34
+Dunedin,84,35
+Wellington,85,35
+Zagreb,86,34
+Bochum,87,16
+Auckland,88,35
+Cernăuţi,89,36
+Fredrikstad,90,19
+Riga,91,37
+São Paulo,92,26
+Vigo,93,24
+Bologna,94,17
+Lisbon,95,38
+Seville,96,24
+San Sebastián,97,24
+Esch-sur-Alzette,98,21
+Lausanne,99,14
+Osaka,100,25
+Brisbane,101,39
+Bucharest,102,36
+Sydney,103,39
+Gävle,104,15
+Kaunas,105,40
+Newcastle,106,39
+Cluj,107,36
+Lwów,108,33
+Istanbul,109,41
+Mexico City,110,42
+Montrouge,111,10
+Nuremberg,112,16
+Oranjestad,113,43
+Le Havre,114,10
+Warsaw,115,33
+Łódź,116,33
+Adelaide,117,39
+Belfast,118,44
+Moscow,119,45
+West Bromwich,120,2
+Port-au-Prince,121,46
+Ankara,122,41
+Manila,123,47
+Sofia,124,48
+Valencia,125,24
+Aarhus,126,23
+Padua,127,17
+New York,128,5
+Kingston,129,49
+Toulouse,130,10
+Düsseldorf,131,16
+Nairobi,132,50
+Prague,133,51
+Poznań,134,33
+Santiago,135,18
+Porto,136,38
+Santander,137,24
+Norrköping,138,15
+Christchurch,139,35
+Altona,140,16
+Lima,141,52
+Tegucigalpa,142,53
+Cologne,143,16
+Georgetown,144,54
+Arad,145,36
+Kampala,146,55
+Gijón,147,24
+Katowice,148,33
+Rome,149,17
+San Salvador,150,56
+Mannheim,151,16
+Zaragoza,152,24
+Bridgetown,153,57
+Dublin,154,58
+Landskrona,155,15
+Malmö,156,15
+Port of Spain,157,59
+Willemstad,158,60
+Klaipėda,159,40
+Breslau,160,16
+Sandviken,161,15
+Västerås,162,15
+Hanover,163,16
+Cairo,164,61
+Roseau,165,62
+Athens,166,63
+Oviedo,167,24
+Liepāja,168,37
+Magdeburg,169,16
+Basse-Terre,170,64
+Florence,171,17
+Trieste,172,17
+Naples,173,17
+Girona,174,24
+Paramaribo,175,65
+Dortmund,176,16
+Erfurt,177,16
+Stettin,178,16
+Königsberg,179,16
+Cayenne,180,66
+Krefeld,181,16
+Chorzów,182,33
+Wuppertal,183,16
+Havana,184,67
+Strasbourg,185,10
+Reims,186,10
+Bordeaux,187,10
+Antibes,188,10
+Basseterre,189,68
+Chemnitz,190,16
+Dublin,191,69
+Melbourne,192,39
+Newcastle,193,2
+Cork,194,69
+Differdange,195,21
+Brest,196,10
+Bremen,197,16
+Karlstad,198,15
+Panama City,199,70
+Prague,200,71
+Bratislava,201,72
+Xinjing,202,73
+San Martín,203,9
+Zagreb,204,74
+Vienna,205,16
+Tel Aviv,206,75
+Nishinomiya,207,25
+Kaunas,208,45
+Kabul,209,76
+Fort-de-France,210,77
+Riga,211,45
+Beuthen,212,16
+Tallinn,213,45
+Oeiras,214,38
+La Coruña,215,24
+Vilnius,216,45
+Birmingham,217,2
+Charleroi,218,11
+Manchester,219,2
+Salisbury,220,78
+Reykjavík,221,79
+Shkodër,222,80
+Huddersfield,223,2
+Antananarivo,224,81
+Kitwe,225,82
+Dar es Salaam,226,83
+Tehran,227,84
+San Fernando,228,59
+Guayaquil,229,85
+Djibouti,230,86
+Bari,231,17
+Brazzaville,232,87
+Curepipe,233,88
+East Rutherford,234,5
+Pointe-à-Pitre,235,64
+So Kon Po,236,89
+Saigon,237,90
+Macau,238,91
+Bratislava,239,32
+Dublin,240,92
+Santos,241,26
+Addis Ababa,242,93
+Belo Horizonte,243,26
+Paramaribo,244,94
+San Juan,245,95
+Saint-Pierre,246,96
+Debrecen,247,8
+Tel Aviv,248,97
+Freetown,249,98
+Ostrava,250,32
+Cardiff,251,3
+Tirana,252,80
+Zanzibar City,253,99
+La Paz,254,100
+Wan Chai,255,89
+Wrocław,256,33
+Accra,257,101
+Bulawayo,258,78
+Durban,259,102
+Curitiba,260,26
+Porto Alegre,261,26
+Johannesburg,262,102
+Recife,263,26
+Port Elizabeth,264,102
+Cape Town,265,102
+Willemstad,266,103
+Trondheim,267,19
+Nouméa,268,104
+Suva,269,105
+Lagos,270,106
+Caracas,271,107
+Essen,272,16
+Oranjestad,273,103
+Colombo,274,108
+Lautoka,275,105
+Pirae,276,109
+Augsburg,277,16
+Ludwigshafen,278,16
+Banjul,279,110
+Kallang,280,111
+Bathurst,281,110
+Bissau,282,112
+Dresden,283,113
+Port Vila,284,114
+Byton,285,33
+Cornwall,286,2
+Yangon,287,115
+Berlin,288,113
+Victoria,289,89
+Saarbrücken,290,116
+Lugano,291,14
+Kalmar,292,15
+Rostock,293,113
+Sarajevo,294,34
+Phnom Penh,295,117
+Calcutta,296,118
+Beirut,297,119
+Papeete,298,109
+San José,299,120
+Dhaka,300,121
+New Delhi,301,118
+Karl-Marx-Stadt,302,113
+Beijing,303,28
+Paysandú,304,6
+Saigon,305,122
+Lomé,306,123
+Seoul,307,124
+Jakarta,308,125
+Khartoum,309,126
+Kuala Lumpur,310,127
+Gżira,311,128
+Tunis,312,129
+Turku,313,20
+Tampere,314,20
+Medellín,315,130
+Blantyre,316,131
+Singapore,317,111
+Accra,318,132
+Casablanca,319,133
+Uddevalla,320,15
+Halmstad,321,15
+Borås,322,15
+Örebro,323,15
+Eskilstuna,324,15
+Leipzig,325,113
+Eindhoven,326,12
+Cairo,327,134
+George Town,328,127
+Los Angeles,329,5
+Pyongyang,330,135
+Cotonou,331,136
+Ramat Gan,332,97
+Bissau,333,137
+Kumasi,334,132
+Surakarta,335,125
+Alexandria,336,134
+Esbjerg,337,23
+Bamako,338,138
+Bamako,339,139
+Ibadan,340,106
+Hanoi,341,140
+Baghdad,342,141
+Bogotá,343,130
+Brno,344,32
+Erfurt,345,113
+Mombasa,346,50
+Barranquilla,347,130
+Dakar,348,142
+Tripoli,349,143
+Cali,350,130
+Rancagua,351,18
+Arica,352,18
+Libreville,353,144
+Bangkok,354,145
+Odense,355,23
+Brazzaville,356,146
+Dar es Salaam,357,147
+Conakry,358,148
+Bangui,359,149
+Yaoundé,360,150
+Algiers,361,151
+Kuwait City,362,152
+Peshawar,363,121
+Benin City,364,106
+Lahore,365,121
+Karachi,366,121
+Cochabamba,367,100
+Abidjan,368,153
+Semarang,369,125
+Oran,370,151
+Magdeburg,371,113
+Szczecin,372,33
+Monrovia,373,154
+Nicosia,374,155
+Niš,375,34
+Haifa,376,97
+Jaffa,377,97
+Jerusalem,378,97
+Zomba,379,131
+Kuala Lumpur,380,156
+Zanzibar,381,147
+Lusaka,382,82
+Luanshya,383,82
+Chingola,384,82
+Ndola,385,82
+Amman,386,157
+Varna,387,48
+Ndola,388,158
+Kitwe,389,158
+Lusaka,390,158
+Sousse,391,129
+Sfax,392,129
+Bizerte,393,129
+Ipoh,394,156
+Hamilton,395,159
+Niamey,396,160
+Titograd,397,34
+Vilnius,398,40
+Blantyre,399,161
+Lilongwe,400,161
+Middlesbrough,401,2
+Sunderland,402,2
+Kinshasa,403,162
+Gera,404,113
+Bruges,405,11
+Ploiești,406,36
+Guadalajara,407,42
+Ouagadougou,408,163
+Leningrad,409,45
+Volgograd,410,45
+Minsk,411,45
+Georgetown,412,164
+Nouakchott,413,165
+Salisbury,414,166
+Port Louis,415,88
+Riyadh,416,167
+Asmara,417,93
+León,418,42
+İzmir,419,41
+Linz,420,7
+Mbabane,421,168
+Maputo,422,169
+Mufulira,423,158
+Philadelphia,424,5
+Mbale,425,55
+Lyon,426,10
+Douala,427,150
+Mar del Plata,428,9
+Zomba,429,161
+Split,430,34
+Rosario,431,9
+La Plata,432,9
+Halle,433,113
+Aalborg,434,23
+Stavanger,435,19
+Wad Madani,436,126
+Puebla,437,42
+Rouen,438,10
+Quito,439,85
+Toluca,440,42
+El Progreso,441,53
+Jena,442,113
+Benghazi,443,143
+Nice,444,10
+Graz,445,7
+Piraeus,446,63
+Cagliari,447,17
+Maseru,448,170
+Novi Sad,449,34
+Taipei,450,171
+Castries,451,172
+Salonica,452,63
+Kisumu,453,50
+Nakuru,454,50
+Mogadishu,455,173
+Kyiv,456,45
+Plzeň,457,32
+Salta,458,9
+Kinshasa,459,174
+Vaasa,460,20
+Craiova,461,36
+Colombo,462,175
+Bydgoszcz,463,33
+Akdoğan,464,155
+Plovdiv,465,48
+Klaksvík,466,176
+Toronto,467,29
+Chicago,468,5
+Windsor,469,29
+Monterrey,470,42
+San Francisco,471,5
+New Britain,472,5
+Hartford,473,5
+Gelsenkirchen,474,16
+Beer Sheva,475,97
+Morphou,476,155
+Doha,477,177
+Manama,478,178
+El Mahalla El Kubra,479,61
+Alexandria,480,61
+Damanhur,481,61
+Zalaegerszeg,482,8
+Zenica,483,34
+Brasília,484,26
+Aden,485,179
+Odessa,486,45
+Székesfehérvár,487,8
+Tórshavn,488,176
+Dallas,489,5
+Frankfurt an der Oder,490,113
+Szolnok,491,8
+Goiânia,492,26
+Seattle,493,5
+Oruro,494,100
+Ottawa,495,29
+La Chorrera,496,70
+St. John's,497,180
+N'Djamena,498,181
+Podgorica,499,34
+Chingola,500,158
+Luanda,501,182
+Dire Dawa,502,93
+Košice,503,32
+Banja Luka,504,34
+Cottbus,505,113
+Lens,506,10
+Kuopio,507,20
+New Haven,508,5
+Mahé,509,183
+Victoria,510,183
+São Tomé,511,184
+Canberra,512,39
+Lucerne,513,14
+Gosford,514,39
+Patras,515,63
+Gaborone,516,185
+Dammam,517,167
+Sliven,518,48
+Kavála,519,63
+Kyrenia,520,155
+Acarigua,521,107
+Brikama,522,110
+Kaolack,523,142
+Capesterre-Belle-Eau,524,64
+Damascus,525,186
+Alicante,526,24
+Funchal,527,38
+Rabat,528,133
+Pointe-à-Pierre,529,59
+Linden,530,164
+Monterey Park,531,5
+"Washington, D.C.",532,5
+Atlanta,533,5
+Porto-Novo,534,187
+Marrakech,535,133
+Saint-Pierre,536,77
+Yerevan,537,45
+Granada,538,24
+Villeneuve-d'Ascq,539,10
+Mendoza,540,9
+Córdoba,541,9
+St. George's,542,188
+Lobamba,543,168
+Setúbal,544,38
+Saint-Denis,545,96
+Arusha,546,147
+Constantine,547,151
+Kigali,548,189
+Larnaca,549,155
+Isa Town,550,178
+Burgas,551,48
+Bursa,552,41
+Simferopol,553,45
+Tbilisi,554,45
+Cotonou,555,187
+Lubumbashi,556,174
+San Cristóbal,557,107
+Słupsk,558,33
+Swansea,559,3
+Nyíregyháza,560,8
+Abu Dhabi,561,190
+Cádiz,562,24
+Udine,563,17
+Texcoco,564,42
+Jeddah,565,167
+Khobar,566,167
+Málaga,567,24
+Meknès,568,133
+Bulawayo,569,191
+Salisbury,570,191
+Borovo,571,34
+Medan,572,125
+San Pedro Sula,573,53
+Akureyri,574,79
+Santa Cruz,575,100
+Sauðárkrókur,576,79
+Húsavík,577,79
+Vitoria-Gasteiz,578,24
+Al Ain,579,190
+Fortaleza,580,26
+Vancouver,581,29
+Edmonton,582,29
+Maldonado,583,6
+Cuiabá,584,26
+Valencia,585,107
+Naruto,586,25
+Nagoya,587,25
+Kuantan,588,156
+Muscat,589,192
+Fez,590,133
+Lahti,591,20
+Ribeirão Preto,592,26
+Subotica,593,34
+Gwelo,594,191
+Umtali,595,191
+Pleven,596,48
+Senftenberg,597,113
+Malabo,598,193
+Nchalo,599,161
+Salvador,600,26
+Saint-Paul,601,96
+Barquisimeto,602,107
+Kenitra,603,133
+Arima,604,59
+Calabar,605,106
+Sharjah,606,190
+Bujumbura,607,194
+Haskovo,608,48
+Bobo Dioulasso,609,163
+Natal,610,26
+Balzers,611,195
+Kathmandu,612,196
+Ruse,613,48
+São Luís,614,26
+Uberlândia,615,26
+Vaduz,616,195
+Harare,617,191
+Elche,618,24
+Valladolid,619,24
+Hammam Lif,620,129
+Gøta,621,176
+Dhaka,622,197
+Győr,623,8
+Ioannina,624,63
+Attard,625,128
+Marsa,626,128
+Lárisa,627,63
+Guimarães,628,38
+Kaduna,629,106
+Târgu Mureș,630,36
+Timişoara,631,36
+Coimbra,632,38
+Utrecht,633,12
+Nuuk,634,198
+Alajuela,635,120
+Saint-Denis,636,10
+Port Vila,637,199
+Njarðvík,638,79
+Antofagasta,639,18
+Nadi,640,105
+Neuchâtel,641,14
+Dodoma,642,147
+Morelia,643,42
+Irapuato,644,42
+Belmopan,645,200
+Bakau,646,110
+Yamoussoukro,647,153
+Port Said,648,61
+Bouaké,649,153
+Bandar Seri Begawan,650,201
+Djibouti,651,202
+Verona,652,17
+Oradea,653,36
+Ettelbruck,654,21
+Kouvola,655,20
+La Línea de la Concepción,656,24
+Saint-Étienne,657,10
+Nantes,658,10
+Mzuzu,659,161
+Sandefjord,660,19
+Bogota,661,130
+Iași,662,36
+Buzău,663,36
+Fuglafjørður,664,176
+Drammen,665,19
+Limassol,666,155
+Zwickau,667,113
+Aue,668,113
+Nezahualcóyotl,669,42
+Ouagadougou,670,203
+Jubail,671,167
+Petah Tikva,672,97
+Hempstead,673,5
+Miami,674,5
+Pescara,675,17
+Ismailia,676,61
+Gweru,677,191
+Querétaro,678,42
+Mashhad,679,84
+Tampa,680,5
+Ambato,681,85
+Acapulco,682,42
+Kingstown,683,204
+Batna,684,151
+Montego Bay,685,49
+Sibiu,686,36
+Palma de Mallorca,687,24
+Sion,688,14
+Ascoli Piceno,689,17
+Portland,690,5
+Pereira,691,130
+David,692,70
+Opole,693,33
+Cork,694,92
+Siu Sai Wan,695,89
+Mount Maunganui,696,35
+Gisborne,697,35
+Praia,698,205
+Mindelo,699,205
+Keflavík,700,79
+Akranes,701,79
+Heerenveen,702,12
+Lae,703,206
+Port Moresby,704,206
+San Jose,705,5
+Lecce,706,17
+Taif,707,167
+Sana'a,708,207
+The Valley,709,208
+Adana,710,41
+Leiria,711,38
+Las Palmas,712,24
+Avellino,713,17
+Portimão,714,38
+Braga,715,38
+Nitra,716,32
+Islamabad,717,121
+Gagny,718,10
+Salzburg,719,7
+Burnaby,720,29
+Paynesville,721,154
+Parramatta,722,39
+Innsbruck,723,7
+Managua,724,209
+Guangzhou,725,28
+Pokhara,726,196
+Mascara,727,151
+Portalegre,728,38
+George Town,729,210
+Santo Domingo,730,211
+Rybnik,731,33
+Bellinzona,732,14
+Machala,733,85
+Azogues,734,85
+Braşov,735,36
+Leeuwarden,736,12
+Brandenburg,737,113
+Aarau,738,14
+Florianópolis,739,26
+Lubin,740,33
+Lower Hutt,741,35
+Pisa,742,17
+Castellón de la Plana,743,24
+Annaba,744,151
+Dubai,745,190
+Mohammedia,746,133
+Armenia,747,130
+Ciudad Victoria,748,42
+Trnava,749,32
+Kaiserslautern,750,16
+Hangzhou,751,28
+Salamanca,752,24
+Stockton,753,5
+San Diego,754,5
+Brescia,755,17
+Fresno,756,5
+Albuquerque,757,5
+Houston,758,5
+Fort Worth,759,5
+San Antonio,760,5
+Berat,761,80
+Białystok,762,33
+La Serena,763,18
+Constanţa,764,36
+Bendigo,765,39
+Honiara,766,212
+Ba,767,105
+Perugia,768,17
+Mazatenango,769,31
+Bejaia,770,151
+Maturín,771,107
+Teresina,772,26
+Taranto,773,17
+Okayama,774,25
+Windhoek,775,213
+Tlemcen,776,151
+Cesena,777,17
+Vicenza,778,17
+João Pessoa,779,26
+Cocoa Beach,780,5
+Santa Cruz de Tenerife,781,24
+Bauchi,782,106
+Palo Alto,783,5
+Montpellier,784,10
+St. Louis,785,5
+Campinas,786,26
+Piscataway,787,5
+Hershey,788,5
+Aberdeen,789,1
+Ljubljana,790,34
+Nîmes,791,10
+Eschen,792,195
+Palermo,793,17
+Kuusankoski,794,20
+High Point,795,5
+Belém,796,26
+Vólos,797,63
+Maia,798,38
+Rijeka,799,74
+Terni,800,17
+Campo Grande,801,26
+Olomouc,802,32
+Veracruz,803,42
+Cáceres,804,24
+Denver,805,5
+Savanna-la-Mar,806,49
+Radom,807,33
+Foxborough,808,5
+Murska Sobota,809,214
+Chișinău,810,215
+Valparaíso,811,18
+Concepción,812,18
+Nagasaki,813,25
+Aosta,814,17
+Sucoma,815,161
+Stara Zagora,816,48
+Gdynia,817,33
+Varginha,818,26
+Ziguinchor,819,142
+Torres Novas,820,38
+Miami Gardens,821,5
+Pontiac,822,5
+Faro,823,38
+Bat Yam,824,97
+Ciudad Madero,825,42
+Victoria,826,29
+Uzhhorod,827,216
+Sittard,828,12
+Jastrzębie-Zdrój,829,33
+Almaty,830,217
+Brøndby,831,23
+Orlando,832,5
+Dushanbe,833,218
+Tashkent,834,219
+Ashgabat,835,220
+Toftir,836,176
+Jakobstad,837,20
+Trabzon,838,41
+Saint John,839,29
+Mielec,840,33
+Gurjaani,841,221
+Paranavaí,842,26
+Bishkek,843,222
+Greensboro,844,5
+Yerevan,845,223
+Anyang,846,124
+Qyzylorda,847,217
+Minsk,848,224
+Hiroshima,849,25
+Onomichi,850,25
+Iława,851,33
+Campina Grande,852,26
+Mwanza,853,147
+Béja,854,129
+Hong Kong,855,89
+Puerto Ordaz,856,107
+Tempe,857,5
+Santa Barbara,858,5
+Pasadena,859,5
+Irbid,860,157
+Coquitlam,861,29
+Dunajská Streda,862,72
+Brzeszcze,863,33
+Ljubljana,864,214
+Costa Mesa,865,5
+Changwon,866,124
+Odessa,867,216
+Ulsan,868,124
+Créteil,869,10
+Napier,870,35
+Fullerton,871,5
+Palmerston North,872,35
+Gəncə,873,225
+Mission Viejo,874,5
+Arequipa,875,52
+Cuenca,876,85
+Portoviejo,877,85
+Moanda,878,144
+Caen,879,10
+Maceió,880,26
+Oakland,881,5
+Kranj,882,214
+Bethlehem,883,5
+Prievidza,884,72
+Barinas,885,107
+Ashdod,886,97
+Paralímni,887,155
+Skopje,888,226
+Szombathely,889,8
+Villavicencio,890,130
+Cannes,891,10
+Jacksonville,892,5
+Toulon,893,10
+Tilburg,894,12
+Davidson,895,5
+Mafikeng,896,102
+Chula Vista,897,5
+Maribor,898,214
+Tetovo,899,226
+Ostrava,900,51
+Kyiv,901,216
+Parma,902,17
+Pomona,903,5
+Wakefield,904,5
+Duncanville,905,5
+Kobe,906,25
+Tbilisi,907,221
+Surabaya,908,125
+Klagenfurt,909,7
+Grassau,910,7
+Gangneung,911,124
+Ozolnieki,912,37
+Ho Chi Minh City,913,90
+Kalamáta,914,63
+Tauranga,915,35
+Jerez de la Frontera,916,24
+Brno,917,51
+Košice,918,72
+Ostrowiec Świętokrzyski,919,33
+Sucre,920,100
+Strumica,921,226
+Temuco,922,18
+Leeds,923,2
+Nottingham,924,2
+Valera,925,107
+Coquimbo,926,18
+Perth,927,39
+Beira,928,169
+Rivera,929,6
+Quilmes,930,9
+Neskaupstaður,931,79
+Kyoto,932,25
+Suwon,933,124
+Siófok,934,8
+Yangon,935,227
+Matsuyama,936,25
+Hermosillo,937,42
+Manaus,938,26
+Palo Seco,939,59
+Bloemfontein,940,102
+Vitrolles,941,10
+Chalcis,942,63
+Wollongong,943,39
+Bourj Hammoud,944,119
+Púla,945,155
+Neiva,946,130
+Varaždin,947,74
+São José do Rio Preto,948,26
+Danlí,949,53
+Prilep,950,226
+Nitra,951,72
+Baku,952,225
+Osijek,953,74
+Zenica,954,228
+Trnava,955,72
+Samsun,956,41
+Tabriz,957,84
+Rose Hill,958,88
+Maladzečna,959,224
+Cremona,960,17
+Fürth,961,16
+Bełchatów,962,33
+Settat,963,133
+Jablonec nad Nisou,964,51
+Zabrze,965,33
+Saint-Louis,966,142
+Wodzisław Śląski,967,33
+Tripoli,968,119
+Dhahran,969,167
+Kotka,970,20
+Sarajevo,971,228
+San Isidro de El General,972,120
+Sant Julià de Lòria,973,229
+Celle Ligure,974,17
+Kunming,975,28
+Denizli,976,41
+Heredia,977,120
+Jwaneng,978,185
+Muharraq,979,178
+Kilmarnock,980,1
+Bobo Dioulasso,981,203
+Viljandi,982,30
+Jericho,983,75
+Kuressaare,984,30
+Höfn,985,79
+Tartu,986,30
+Baltimore,987,5
+Heraklion,988,63
+Saint Petersburg,989,22
+Daegu,990,124
+Dalian,991,28
+Bandung,992,125
+Olsztyn,993,33
+Aswan,994,61
+Nicoya,995,120
+Antalya,996,41
+Garoua,997,150
+Catania,998,17
+Saint Croix,999,230
+Olomouc,1000,51
+Edinburgh,1001,1
+Montecatini Terme,1002,17
+Bastia,1003,10
+Molde,1004,19
+Montélimar,1005,10
+Avignon,1006,10
+Baiersbronn,1007,16
+Pärnu,1008,30
+Karksi-Nuia,1009,30
+Koror,1010,231
+Abovyan,1011,223
+Ponta Delgada,1012,38
+Kohtla-Järve,1013,30
+Tangier,1014,133
+Kumanovo,1015,226
+Salerno,1016,17
+Saint Sampson,1017,232
+Road Town,1018,233
+Umm al-Fahm,1019,97
+Maracaibo,1020,107
+Split,1021,74
+Fort Lauderdale,1022,5
+Luque,1023,27
+Pedro Juan Caballero,1024,27
+Tula,1025,22
+Dubnica nad Váhom,1026,72
+Hagätña,1027,234
+Manizales,1028,130
+Ciudad del Este,1029,27
+Shah Alam,1030,156
+Valga,1031,30
+Samarqand,1032,219
+Colonia,1033,235
+San Bernardino,1034,5
+Drnovice,1035,51
+Yokohama,1036,25
+Kilkís,1037,63
+Kozáni,1038,63
+Agilat,1039,143
+Pretoria,1040,102
+Vieux Fort,1041,172
+Tríkala,1042,63
+Agadir,1043,133
+El Jadida,1044,133
+Kano,1045,106
+Cartagena,1046,24
+Zarqa,1047,157
+Birmingham,1048,5
+Morogoro,1049,147
+Teplice,1050,51
+Ashkelon,1051,97
+Reggio di Calabria,1052,17
+Serravalle,1053,236
+Malé,1054,237
+Zahlé,1055,119
+Winnipeg,1056,29
+Seongnam,1057,124
+Chaves,1058,38
+Port Harcourt,1059,106
+Gibraltar,1060,238
+Macoya,1061,59
+Leicester,1062,2
+Latakia,1063,186
+Viseu,1064,38
+Abha,1065,167
+Sidon,1066,119
+Rhodes,1067,63
+Xánthi,1068,63
+Córdoba,1069,24
+Manzini,1070,168
+Beit She'an,1071,97
+Balchik,1072,48
+Herzliyya,1073,97
+Koper,1074,214
+Mumias,1075,50
+Cap-Haïtien,1076,46
+Belize City,1077,200
+Gaziantep,1078,41
+Kutaisi,1079,221
+Vélez-Málaga,1080,24
+Derby,1081,2
+Columbus,1082,5
+Bihać,1083,228
+Évreux,1084,10
+Fukuroi,1085,25
+Mondercange,1086,21
+Piacenza,1087,17
+Daejeon,1088,124
+Busan,1089,124
+Southampton,1090,2
+Nassau,1091,239
+Saitama,1092,25
+Jeonju,1093,124
+Gwangju,1094,124
+Paola,1095,128
+Huelva,1096,24
+Sikasso,1097,139
+Seogwipo,1098,124
+Mopti,1099,139
+Ségou,1100,139
+Kayes,1101,139
+Breda,1102,12
+Pégeia,1103,155
+Hesperange,1104,21
+Phoenix,1105,5
+Kurunegala,1106,175
+Pistoia,1107,17
+Kalutara,1108,175
+Rostock,1109,16
+Mhlume,1110,168
+Big Bend,1111,168
+Jaffna,1112,175
+Sana'a,1113,240
+Murcia,1114,24
+Ventspils,1115,37
+Smederevo,1116,34
+Kerkrade,1117,12
+Incheon,1118,124
+Pécs,1119,8
+Prešov,1120,72
+Shenyang,1121,28
+Leverkusen,1122,16
+Bodø,1123,19
+Tottori,1124,25
+Kumamoto,1125,25
+Wakayama,1126,25
+Sapporo,1127,25
+Niigata,1128,25
+Kashima,1129,25
+Marigot,1130,241
+Rifu,1131,25
+Ōita,1132,25
+Blida,1133,151
+Radès,1134,129
+Watford,1135,2
+Wolverhampton,1136,2
+Misrata,1137,143
+Rivière-Pilote,1138,77
+Logroño,1139,24
+St Helier,1140,242
+Albano Laziale,1141,17
+Independencia,1142,18
+Petaling Jaya,1143,156
+Santa Ana,1144,5
+Šibenik,1145,74
+Châteauroux,1146,10
+Bastia Umbra,1147,17
+Nova Gorica,1148,214
+Wuhan,1149,28
+Kruševac,1150,243
+Amiens,1151,10
+Vantaa,1152,20
+Žilina,1153,72
+Abuja,1154,106
+Wolfsburg,1155,16
+Saint-Brieuc,1156,10
+Campobasso,1157,17
+Richmond,1158,5
+Carson,1159,5
+Mamoudzou,1160,244
+Tianjin,1161,28
+Ipswich,1162,2
+Donetsk,1163,216
+Dinard,1164,10
+Reading,1165,2
+Potchefstroom,1166,102
+Aveiro,1167,38
+Ancona,1168,17
+Płock,1169,33
+Selebi-Phikwe,1170,185
+Paphos,1171,155
+Houmet Souk,1172,129
+Az Zawiyah,1173,143
+Yiwu,1174,28
+Monastir,1175,129
+Suzhou,1176,28
+Spanish Town,1177,233
+West Palm Beach,1178,5
+Shenzhen,1179,28
+Ta' Qali,1180,128
+San Fernando,1181,24
+Estelí,1182,209
+Tuxtla Gutiérrez,1183,42
+Johor Bahru,1184,156
+Jounieh,1185,119
+Belgrade,1186,243
+Celje,1187,214
+La Ceiba,1188,53
+Peralada,1189,24
+Clermont-Ferrand,1190,10
+Chambéry,1191,10
+Diriamba,1192,209
+Åland,1193,20
+Águeda,1194,38
+San Carlos,1195,120
+Getafe,1196,24
+Bacolet,1197,59
+Chongqing,1198,28
+Chiclayo,1199,52
+Hohhot,1200,28
+Trujillo,1201,52
+Piura,1202,52
+Tacna,1203,52
+Chengdu,1204,28
+Jinan,1205,28
+Cusco,1206,52
+Tiraspol,1207,215
+Messina,1208,17
+Riffa,1209,178
+Babahoyo,1210,85
+Scarborough,1211,59
+Grodzisk Wielkopolski,1212,33
+Béziers,1213,10
+Culiacán,1214,42
+Barcelos,1215,38
+Occitania,1216,10
+Cap-d'Ail,1217,10
+Metz,1218,10
+Mönchengladbach,1219,16
+George Town,1220,156
+Arles,1221,10
+Quetta,1222,121
+Changsha,1223,28
+Loja,1224,85
+Mutare,1225,191
+Chililabombwe,1226,158
+Lubumbashi,1227,162
+Bayamón,1228,95
+Vitsebsk,1229,224
+Le Mans,1230,10
+Nanjing,1231,28
+Clairfontaine,1232,10
+Al Rayyan,1233,177
+Santiago de Compostela,1234,24
+Viry-Châtillon,1235,10
+Nicosia,1236,245
+Ayutthaya,1237,145
+Aleppo,1238,186
+Frisco,1239,5
+North Shore,1240,35
+Chonburi,1241,145
+Bata,1242,193
+Cary,1243,5
+La Calera,1244,18
+Wronki,1245,33
+Les Abymes,1246,64
+Nashville,1247,5
+Genk,1248,11
+Terrassa,1249,24
+Cleveland,1250,5
+Altenkirchen,1251,16
+Évora,1252,38
+Albacete,1253,24
+East Hartford,1254,5
+Vittel,1255,10
+Dornbirn,1256,7
+Offenbach am Main,1257,16
+Seremban,1258,156
+Bondoufle,1259,10
+Gossau,1260,14
+Ulm,1261,16
+Aix-en-Provence,1262,10
+Brentford,1263,2
+Uherské Hradiště,1264,51
+Livorno,1265,17
+Tours,1266,10
+Narbonne,1267,10
+Maracay,1268,107
+Saint-Marc,1269,46
+Grand Bay,1270,62
+Black Rock,1271,57
+La Courneuve,1272,10
+Bergamo,1273,17
+Belgrade,1274,246
+Saint-Joseph,1275,77
+Sainte-Marie,1276,77
+Le Lamentin,1277,77
+Cúcuta,1278,130
+Domžale,1279,214
+Glendale,1280,5
+Qarshi,1281,219
+Shymkent,1282,217
+Belle Vue Harel,1283,88
+Le Gosier,1284,64
+Podgorica,1285,247
+Mérida,1286,107
+Talca,1287,18
+Cabinda,1288,182
+Osorno,1289,18
+Morne-à-l'Eau,1290,64
+Asmara,1291,248
+Masvingo,1292,191
+San Luis Potosí,1293,42
+Salmiya,1294,152
+Montreuil,1295,10
+Táchira,1296,107
+Hanoi,1297,90
+Paju,1298,124
+Puerto la Cruz,1299,107
+Palembang,1300,125
+Orapa,1301,185
+Creil,1302,10
+Commerce City,1303,5
+Achna,1304,155
+Ciudad Juárez,1305,42
+Siena,1306,17
+Gangtok,1307,118
+Melun,1308,10
+Omdurman,1309,126
+Jerez,1310,24
+Estepona,1311,24
+Alverca do Ribatejo,1312,38
+Umlazi,1313,102
+Zhongshan,1314,28
+Sekondi,1315,132
+San Ignacio,1316,200
+Tamale,1317,132
+Couva,1318,59
+San Cristóbal,1319,211
+Germiston,1320,102
+Kópavogur,1321,79
+Aubervilliers,1322,10
+Nanterre,1323,10
+Pernis,1324,12
+Herning,1325,23
+Latacunga,1326,85
+Iquitos,1327,52
+Zlaté Moravce,1328,72
+Atteridgeville,1329,102
+Susupe,1330,249
+Bucaramanga,1331,130
+Nizwa,1332,192
+Bielefeld,1333,16
+Alcochete,1334,38
+Margao,1335,118
+Kunshan,1336,28
+Reutlingen,1337,16
+Grenoble,1338,10
+Chennai,1339,118
+Burghausen,1340,16
+Hyderabad,1341,118
+Mantes-la-Ville,1342,10
+Le Touquet-Paris-Plage,1343,10
+Dreux,1344,10
+Chantilly,1345,10
+Marijampolė,1346,40
+Urziceni,1347,36
+Nyon,1348,14
+İzmit,1349,41
+Lviv,1350,216
+Arad,1351,178
+Al-Ram,1352,75
+Caraglio,1353,17
+Compiègne,1354,10
+Gama,1355,26
+Palmira,1356,130
+Rustenburg,1357,102
+Vila-real,1358,24
+Dnipropetrovs'k,1359,216
+Fort Pierce,1360,5
+Sendai,1361,25
+Albufeira,1362,38
+Bois-Guillaume,1363,10
+Le Petit-Quevilly,1364,10
+Polokwane,1365,102
+Vila Real de Santo António,1366,38
+Keetmanshoop,1367,213
+Olhão,1368,38
+Espargos,1369,205
+Dundo,1370,182
+Santa Fe,1371,9
+Llanelli,1372,3
+Qinhuangdao,1373,28
+Kayseri,1374,41
+Ajaccio,1375,10
+Barysaw,1376,224
+Ha'ateiho,1377,250
+Mahajanga,1378,81
+Oxnard,1379,5
+Erbil,1380,141
+Dieppe,1381,10
+Blois,1382,10
+Limerick,1383,92
+Salalah,1384,192
+Enschede,1385,12
+Kimberley,1386,102
+Miyagi,1387,25
+Saint-Gratien,1388,10
+Al-Jahra,1389,152
+Talcahuano,1390,18
+Nonthaburi,1391,145
+Ghent,1392,11
+Vinkovci,1393,74
+Sedan,1394,10
+Tete,1395,169
+Jiangyin,1396,28
+Benguela,1397,182
+Lubango,1398,182
+San Juan,1399,9
+Vieux-Habitants,1400,64
+Monaco,1401,251
+Torreón,1402,42
+Charlotte,1403,5
+Saint-Dalmas-De-Tende,1404,10
+Taunusstein,1405,16
+Cutral Có,1406,9
+Iquique,1407,18
+Aachen,1408,16
+Nelspruit,1409,102
+Schwaz,1410,7
+Harrison,1411,5
+Covilhã,1412,38
+Altach,1413,7
+Wattens,1414,7
+Kharkiv,1415,216
+Seekirchen am Wallersee,1416,7
+Calama,1417,18
+Villach,1418,7
+Bischofshofen,1419,7
+Anif,1420,7
+Kielce,1421,33
+Kufstein,1422,7
+Chillán,1423,18
+Grenville,1424,188
+Bayreuth,1425,16
+Milton Keynes,1426,2
+Thonon-les-Bains,1427,10
+Roodepoort,1428,102
+Zell am See,1429,7
+Winterthur,1430,14
+Sankt Veit an der Glan,1431,7
+Quartier-d'Orleans,1432,241
+Durrës,1433,80
+Senlis,1434,10
+Nanning,1435,28
+Liberec,1436,51
+Astana,1437,217
+Marignane,1438,10
+Zhengzhou,1439,28
+Zapopan,1440,42
+Providence,1441,164
+Pune,1442,118
+San José,1443,31
+Ciudad Quesada,1444,120
+Chester,1445,5
+Lobatse,1446,185
+Korçë,1447,80
+Kennesaw,1448,5
+Voronezh,1449,22
+Zhuhai,1450,28
+Sulaymaniyah,1451,141
+6th of October City,1452,61
+Valence,1453,10
+Moquegua,1454,52
+Lagos,1455,38
+Óbidos,1456,38
+Pula,1457,74
+Amadora,1458,38
+Maun,1459,185
+Resistencia,1460,9
+Olargues,1461,10
+Sinsheim,1462,16
+Saint-Nazaire,1463,10
+Franceville,1464,144
+Guiyang,1465,28
+Las Vegas,1466,5
+Al-Khader,1467,75
+Kota Bharu,1468,156
+San Salvador de Jujuy,1469,9
+Buriram,1470,145
+Hefei,1471,28
+Saint-Leu-la-Forêt,1472,10
+Navua,1473,105
+Nausori,1474,105
+Osbourn,1475,180
+Gdańsk,1476,33
+Wiesbaden,1477,16
+Guwahati,1478,118
+Crawley,1479,2
+Fontès,1480,10
+Bitam,1481,144
+Xewkija,1482,128
+Belek,1483,41
+Seeb,1484,192
+Chiang Mai,1485,145
+Kowloon,1486,89
+Karaj,1487,84
+Godalming,1488,2
+Shizuoka,1489,25
+Amanvillers,1490,10
+Würzburg,1491,16
+Valenciennes,1492,10
+Cascais,1493,38
+Kelsterbach,1494,16
+Port el-Kantaoui,1495,129
+Arlington,1496,5
+Ingolstadt,1497,16
+Beausoleil,1498,10
+Bacolod,1499,47
+Juba,1500,252
+Molepolole,1501,185
+Bakıxanov,1502,225
+Lauderhill,1503,5
+Xi'an,1504,28
+Kecskemét,1505,8
+Jurong,1506,111
+Saint Anne,1507,253
+Pontevedra,1508,24
+Saint-Jean,1509,254
+Vientiane,1510,255
+Sukhumi,1511,221
+Al Hofuf,1512,167
+Hawalli,1513,152
+Choa Chu Kang,1514,111
+Stepanakert,1515,225
+Estoril,1516,38
+Hwaseong,1517,124
+Krasnodar,1518,22
+Cebu City,1519,47
+Yona,1520,234
+Al Wakrah,1521,177
+Sur,1522,192
+Sohar,1523,192
+Cornellà de Llobregat,1524,24
+Marbella,1525,24
+Kochi,1526,118
+Netanya,1527,97
+Manisa,1528,41
+Saint-Zacharie,1529,10
+Boca Raton,1530,5
+Qurghonteppa,1531,218
+Antigua Guatemala City,1532,31
+Obuasi,1533,132
+La Chaux,1534,10
+Zhodzina,1535,224
+el-Gouna,1536,61
+Sintra,1537,38
+Khujand,1538,218
+Aïn Draham,1539,129
+Oliva,1540,24
+Novi Sad,1541,246
+Cheonan,1542,124
+Siliguri,1543,118
+Mersin,1544,41
+Hougang,1545,111
+Lugo,1546,24
+Selayang,1547,156
+Martigues,1548,10
+Mitrovica,1549,256
+Gros Islet,1550,172
+Alzira,1551,24
+Douglas,1552,257
+Cebu,1553,47
+Kapfenberg,1554,7
+Ritzing,1555,7
+Senec,1556,72
+Lancy,1557,14
+Hartberg,1558,7
+Carouge,1559,14
+Mauer,1560,7
+Olmaliq,1561,219
+Lohr am Main,1562,16
+Rieti,1563,17
+Yverdon-les-Bains,1564,14
+Meyrin,1565,14
+Mainz,1566,16
+Landover,1567,5
+Malang,1568,125
+Thủ Dầu Một,1569,90
+Chur,1570,14
+Ospedaletti,1571,17
+Saint-Laurent-du-Maroni,1572,66
+Matrei in Osttirol,1573,7
+Khimki,1574,22
+Tuzla,1575,228
+Anshan,1576,28
+Bucheon,1577,124
+Santa Clara,1578,5
+Haiphong,1579,90
+Pristina,1580,256
+Goyang,1581,124
+Harbin,1582,28
+Yogyakarta,1583,125
+Al Farwaniyah,1584,152
+Sidoarjo,1585,125
+Valparaiso,1586,18
+Taipa,1587,91
+Jessore,1588,197
+Rajshahi,1589,197
+Sepsiszentgyörgy,1590,36
+Nakhon Ratchasima,1591,145
+Yishun,1592,111
+Nanchang,1593,28
+Toyota,1594,25
+Perivólia,1595,63
+Chenzhou,1596,28
+Al Hamriyah,1597,190
+South Geelong,1598,39
+Robina,1599,39
+Ballarat,1600,39
+Penrith,1601,39
+Ebebiyín,1602,193
+Mongomo,1603,193
+Santiago de los Caballeros,1604,211
+Beauvais,1605,10
+Uyo,1606,106
+Sankt Pölten,1607,7
+Summerfield,1608,5
+Mapou,1609,88
+Chōfu,1610,25
+Crewe,1611,2
+Samut Sakhon,1612,145
+Jurong West,1613,111
+Viborg,1614,23
+Mons,1615,11
+Thun,1616,14
+León,1617,24
+Elbasan,1618,80
+Luhansk,1619,216
+Kertepe,1620,41
+Pathum Thani,1621,145
+Visé,1622,11
+Troyes,1623,10
+Rostov-on-Don,1624,22
+Juticalpa,1625,53
+Sutton Coldfield,1626,2
+Gisenyi,1627,189
+Njeru,1628,55
+Philipsburg,1629,258
+Giurgiu,1630,36
+Krubong,1631,156
+Kidderminster,1632,2
+Serowe,1633,185
+Como,1634,17
+Užice,1635,246
+Bad Erlach,1636,7
+Koprivnica,1637,74
+Wels,1638,7
+Thanh Hóa,1639,90
+Rohrbach an der Lafnitz,1640,7
+Bad Waltersdorf,1641,7
+Thimphu,1642,259
+Paroi,1643,156
+Mladá Boleslav,1644,51
+Horsens,1645,23
+Bombay,1646,118
+Limbé,1647,150
+Hebron,1648,75
+Sleman,1649,125
+Bridgeview,1650,5
+Bishan,1651,111
+Groznyy,1652,22
+Gabès,1653,129
+Nakagusuku,1654,25
+Sidi Moussa,1655,151
+Oyem,1656,144
+Port-Gentil,1657,144
+Trübbach,1658,14
+Cibinong,1659,125
+Ústí nad Labem,1660,51
+Machakos,1661,50
+Eskişehir,1662,41
+Molenbeek,1663,11
+Sochi,1664,22
+East London,1665,102
+Empoli,1666,17
+Basra,1667,141
+Hawassa,1668,93
+Sandy,1669,5
+Salé,1670,133
+New Cairo,1671,61
+Yacuiba,1672,100
+Ras al-Khaimah,1673,190
+Moruleng,1674,102
+Burton on Trent,1675,2
+Paya Rumput,1676,156
+Bekasi,1677,125
+Mandalay,1678,227
+La Marsa,1679,129
+Pak Kret,1680,145
+Salon-de-Provence,1681,10
+Biel,1682,14
+Kazan,1683,22
+Gori,1684,221
+Karbala,1685,141
+Cikarang,1686,125
+Banda Aceh,1687,125
+Fitzwilliam,1688,2
+Pirae,1689,260
+Limeil-Brévannes,1690,10
+San Pedro Alcántara,1691,24
+Razgrad,1692,48
+San Pedro del Pinatar,1693,24
+Franconville,1694,10
+Santiago,1695,211
+Felcsút,1696,8
+Ulan Bator,1697,261
+Sandbach,1698,2
+Évian-les-Bains,1699,10
+Almada,1700,38
+Kematen,1701,7
+Schwechat,1702,7
+Brest,1703,224
+Grödig,1704,7
+Ekaterinburg,1705,22
+Saransk,1706,22
+Kaliningrad,1707,22
+Samara,1708,22
+Nizhny Novgorod,1709,22
+Volgograd,1710,22
+San Pedro,1711,200
+Quetzaltenango,1712,31
+Nilphamari Sadar,1713,197
+East Riffa,1714,178
+Faro-Loulé,1715,38
+Llagostera,1716,59
+Llagostera,1717,255
+Georgetown,1718,204
+Guingamp,1719,10
+San Nicolás de los Garza,1720,42
+Rize,1721,41
+Suphan Buri,1722,145
+Malacca City,1723,156
+St. Peter,1724,242
+Ossett,1725,2
+Eupen,1726,11
+Al-Ain,1727,141
+Asaba,1728,106
+Villa Tunari,1729,100
+Al Ahmadi,1730,152
+Athersley,1731,2
+Bodmin,1732,2
+Kent,1733,5
+Alanya,1734,41
+Kaohsiung,1735,171
+Boulogne-Sur-Mer,1736,153
+Bondoufle,1737,50
+Penafiel,1738,182
+Majadahonda,1739,150
+Cincinnati,1740,5
+Anglesey,1741,3
+Suez,1742,61
+Tskhinvali,1743,221
+Xianghe,1744,61
+Caen,1745,61
+Berrechid,1746,61
+Dnipro,1747,216
+Fos-sur-Mer,1748,205
+Thanyaburi,1749,145
+Morocco,1750,133
+Guinea,1751,148
+Ivory Coast,1752,153
+Benin,1753,187
+Equatorial Guinea,1754,193
+Ethiopia,1755,93
+Kenya,1756,50
+Lesotho,1757,170
+Niger,1758,160
+Rwanda,1759,189
+Villeneuve D'Ascq,1760,151
+Zaporizhia,1761,216
+Horsham,1762,2
+Irvine,1763,5
+Andorra la Vella,1764,229
+Parchal,1765,38
+Comayagua,1766,53
+Aksu,1767,41
+Rio Maior,1768,38
+Leuven,1769,11
+Brondbyvester,1770,23
+Maria Enzersdorf,1771,7
+Wiener Neustadt,1772,7
+Eibar,1773,24
+Bahir Dar,1774,93
+Thessaloniki,1775,63
+Velika Gorica,1776,74
+Ried im Innkreis,1777,7
+São João da Venda,1778,38
+Paderborn,1779,16
+Thiès,1780,142
+Miki,1781,25
+Leganés,1782,24
+Cape Coast,1783,132
+Moroni,1784,262
+Plzeň,1785,51
+Manavgat,1786,41
+Sapanca,1787,41
+Nur-Sultan,1788,217
+Austin,1789,5
+Bafoussam,1790,150
+Gianyar,1791,125
+Saint Pierre,1792,88
+Orléans,1793,10
+Kortrijk,1794,11
+Arad,1795,84
+Sylhet,1796,197
+Anderlecht,1797,11
+Konya,1798,41
+Sisaket,1799,145
+Adama,1800,93
+Soreang,1801,125
+Pamplona,1802,24
+Kansas City,1803,5
+Capoliveri,1804,17
+Almere,1805,12
+Carriacou,1806,188
+Lorca,1807,24
+Diyarbakir,1808,41
+Soweto,1809,102
+Cluj-Napoca,1810,36
+Mbombela,1811,102
+Al Khor,1812,177
+Lusail,1813,177
+Sauteurs,1814,188
+Gouyave,1815,188
+Medina,1816,167
+Laamu,1817,237
+Batumi,1818,221
+Santiago del Estero,1819,9
+Mazatlán,1820,42
+Penonomé,1821,70
+Terengganu,1822,156
+Palm Beach Gardens,1823,5
+Suita,1824,25
+Nam Định,1825,90
+Leesburg,1826,5
+Domat/Ems,1827,14
+Pasching,1828,7
+Diamniadio,1829,142
+Saint Paul,1830,5
+Khouribga,1831,133
+Kish,1832,84
+San-Pédro,1833,153
+Ebimpé,1834,153
+Korhogo,1835,153
+Chambly,1836,10
+Frankfurt,1837,16
+Badajoz,1838,24
+College Station,1839,5
+Mallorca,1840,24
+Hradec Králové,1841,51
+Ulaanbaatar,1842,261
+Inglewood,1843,5
